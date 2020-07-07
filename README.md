@@ -1,8 +1,8 @@
-#学习笔记 - JVM高级特性与最佳实践（第3版)
+# 学习笔记 - JVM高级特性与最佳实践（第3版)
 
-##java虚拟机内存模型
+## java虚拟机内存模型
 
-###程序计数器
+### 程序计数器
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
