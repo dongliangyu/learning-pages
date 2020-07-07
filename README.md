@@ -11,8 +11,8 @@
 #### 2. Java虚拟机栈
    * Java虚拟机栈是线程私有的。
    * 存储局部变量表、操作数栈、动态连接、方法出口等信息。
-   * 如果线程请求的栈深度大于虚拟机所允许的深度，将抛出StackOverflowError异常。
-   * 如果Java虚拟机栈容量可以动态扩展，当栈扩展时无法申请到足够的内存会抛出OutOfMemoryError异常。
+   * 线程请求的栈深度大于虚拟机所允许的深度，将抛出StackOverflowError。
+   * Java虚拟机栈容量可以动态扩展，当栈扩展时无法申请到足够的内存会抛出OutOfMemoryError。
 
 
 
